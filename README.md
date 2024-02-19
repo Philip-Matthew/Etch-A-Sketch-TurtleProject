@@ -1,7 +1,5 @@
 # Etch-A-Sketch-TurtleProject
 
-# README
-
 ## Description:
 This Python program utilizes the Turtle module to create a simple drawing interface where users can control the movement of a turtle on the screen using keyboard inputs. The turtle can move forwards, backwards, rotate clockwise, rotate counterclockwise, and clear the screen.
 
